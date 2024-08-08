@@ -1,10 +1,6 @@
-![Logo_Encabezado](https://github.com/ElizabethMaranon/JS_Gestion_Errores/assets/148614690/3c3cce7c-d9c9-41d2-864a-46c79f6a1d74)
-![Logo_Codepen](https://github.com/ElizabethMaranon/Full-Stack/assets/148614690/8697e562-9e49-4de3-8ff2-b35da681989f)
-+ <font color="#006cb5">Círculo #006cb5</font>  
-+ <font color="#000000">Ratón #000000</font>  
-+ <font color="#556CEE">Logo #556CEE</font>  
+![Logo_Mielma_developer](Image/Logo_Mielma_Developer.png)
 
-[Guía de markdown de github🔗](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+# [Guía de markdown de github🔗][def]
 # <b>Símbolos o iconos</b>
 + Iconos, emojis, símbolos https://es.piliapp.com/symbol/
 + Link: 🔗
@@ -294,3 +290,6 @@ https://daringfireball.net/projects/markdown/syntax#precode
 
 https://tutorialmarkdown.com/
 
+
+
+[def]: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
