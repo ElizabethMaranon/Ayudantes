@@ -1,6 +1,9 @@
 ![Logo Mielma Developer](image/Logo_Mielma_Developer.png)
 # [keydown: Elemento: Evento de pulsación de tecla](https://developer.mozilla.org/en-US/docs/Web/API/Element/keydown_event)
 
+> [!NOTE]
+> Creación de teclas de acceso rápido.
+
 El keydown El evento se activa cuando se presiona una tecla..
 
 A diferencia del obsoleto keypress evento, el keydown El evento se activa para todas las claves, independientemente de si producen un valor de carácter.
