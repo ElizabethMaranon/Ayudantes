@@ -29,6 +29,14 @@
   |:-:|:-:|:-:|:-:|
   |↑|↓|→|←
 
+# Checke o casilla de verificación
+```js
+- [ ] Verificación sin marcar 
+- [x] Verificación marcada 
+```
+- [ ] Verificación sin marcar 
+- [x] Verificación marcada 
+
 
 # Sintaxis Markdown
 
