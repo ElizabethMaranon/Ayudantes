@@ -8,7 +8,8 @@
 
 # <!-- Extract to link definition -->
 
-# https://github.com/ElizabethMaranon/Ayudantes/wiki/
+# https://github.com/ElizabethMaranon/Nombre_Repertorio/wiki/Nombre_WikiDoc
+
 
 # [Guía de markdown de github🔗][def]
 # <b>Símbolos o iconos</b>
