@@ -8,7 +8,17 @@
 
 # <!-- Extract to link definition -->
 
-# https://github.com/ElizabethMaranon/Nombre_Repertorio/wiki/Nombre_WikiDoc
+# Enlace a archivo wiki
+```js
+https://github.com/ElizabethMaranon/Nombre_Repertorio/wiki/Nombre_WikiDoc
+```
+# Git clone
+```js
+git clone https://github.com/ElizabethMaranon/Nombre_Repertorio.git
+```
+```js 
+git clone https://github.com/ElizabethMaranon/Nombre_Repertorio.wiki.git
+```
 
 
 # [Guía de markdown de github🔗][def]
