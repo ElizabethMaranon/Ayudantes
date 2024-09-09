@@ -12,6 +12,7 @@
 ```js
 https://github.com/ElizabethMaranon/Nombre_Repertorio/wiki/Nombre_WikiDoc
 ```
+
 # Git clone
 ```js
 git clone https://github.com/ElizabethMaranon/Nombre_Repertorio.git
@@ -22,6 +23,8 @@ git clone https://github.com/ElizabethMaranon/Nombre_Repertorio.wiki.git
 
 
 # [Guía de markdown de github🔗][def]
+Guía markdown desde GitHub
+
 # <b>Símbolos o iconos</b>
 + Iconos, emojis, símbolos https://es.piliapp.com/symbol/
 + Link: 🔗
@@ -101,6 +104,7 @@ Incluso puedes concatenar varios >> para crear citas anidadas.
 Recuerda separar los saltos de línea con >, o >> si te encuentras dentro de la cita anidada; para crear párrafos dentro del mismo bloque de cita.
 
 # Listas `<ol>`
+Creación de listas
 
 # Listas desordenadas `<ul>` 
 
