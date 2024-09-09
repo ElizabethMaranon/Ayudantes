@@ -72,6 +72,37 @@ Markdown permite dibujar tablas mediante plecas (|). Cada celda está separada p
 |se adapta cada columna|al de mayor longitud|
 |align izq| centrar| align der|
 
+# Alertas
+```
+> [!NOTE]
+> Información útil que los usuarios deben conocer, incluso cuando hojean el contenido.
+```
+> [!NOTE]
+> Información útil que los usuarios deben conocer, incluso cuando hojean el contenido.
+```
+> [!TIP]
+> Consejos útiles para hacer las cosas mejor o más fácilmente.
+```
+> [!TIP]
+> Consejos útiles para hacer las cosas mejor o más fácilmente.
+```
+> [!IMPORTANT]
+> Información clave que los usuarios necesitan saber para lograr su objetivo.
+```
+> [!IMPORTANT]
+> Información clave que los usuarios necesitan saber para lograr su objetivo.
+```
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+```
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+```
+> [!CAUTION]
+> Información urgente que necesita atención inmediata del usuario para evitar problemas.
+```
+> [!CAUTION]
+> Información urgente que necesita atención inmediata del usuario para evitar problemas.
 # Párrafos `<p>` y saltos de línea `<br>`
 
 Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
