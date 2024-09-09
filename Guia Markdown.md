@@ -50,11 +50,9 @@ git clone https://github.com/ElizabethMaranon/Nombre_Repertorio.wiki.git
 - [x] Verificación marcada 
 
 
-# Sintaxis Markdown
 
-En el lenguaje Markdown encontrarás tres tipos de elementos básicos que a su vez engloban el resto de la sintaxis.
 
-## Tablas
+# Tablas
 Tablas
 Markdown permite dibujar tablas mediante plecas (|). Cada celda está separada por uno de estos caracteres. Para crear encabezados que se distingan visualmente del resto del contenido, se subrayan las celdas correspondientes con guiones.
 
@@ -71,7 +69,7 @@ Markdown permite dibujar tablas mediante plecas (|). Cada celda está separada p
 |se adapta cada columna|al de mayor longitud|
 |align izq| centrar| align der|
 
-## Párrafos `<p>` y saltos de línea `<br>`
+# Párrafos `<p>` y saltos de línea `<br>`
 
 Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
 
@@ -79,7 +77,7 @@ Al igual que sucede con HTML, Markdown no soporta dobles líneas en blanco, así
 
 Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.
 
-## Encabezados`<h1>` `<h2>`
+# Encabezados`<h1>` `<h2>`
 
 Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados.   
 Debes usarlos añadiendo uno por cada nivel, tantos niveles como sean necesarios
@@ -91,20 +89,20 @@ Debes usarlos añadiendo uno por cada nivel, tantos niveles como sean necesarios
 #### Tantos # tanto nivel
 ```
 
-## Encabezados subrayados `<u>`
+# Encabezados subrayados `<u>`
 == Para el nivel 1  
 -- Para el nivel 2
 
-## Citas `<q>`
+# Citas `<q>`
 Las citas se generar utilizando el carácter mayor que > al comienzo del bloque de texto. 
 
 Si la cita en cuestión se compone de varios párrafos, deberás añadir el mismo símbolo > al comienzo de cada uno de ellos.  
 Incluso puedes concatenar varios >> para crear citas anidadas.  
 Recuerda separar los saltos de línea con >, o >> si te encuentras dentro de la cita anidada; para crear párrafos dentro del mismo bloque de cita.
 
-## Listas `<ol>`
+# Listas `<ol>`
 
-## Listas desordenadas `<ul>` 
+# Listas desordenadas `<ul>` 
 
 Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.  
 Para generar listas anidadas dentro de otras, simplemente tendrás que añadir **cuatro espacios en blanco antes del siguiente *, - o +.
@@ -116,12 +114,12 @@ Para generar listas anidadas dentro de otras, simplemente tendrás que añadir *
 + Elemento de lista 5
   + Elemento de lista 6
 
-## Listas ordenadas `<li>`
+# Listas ordenadas `<li>`
 
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.  
 Al igual que ocurre con las listas desordenadas, también podrás anidar o combinar.
 
-## Códigos de bloque
+# Códigos de bloque
 Si quieres crear un bloque entero que contenga código. Lo único que tienes que hacer es encerrar dicho párrafo entre dos líneas formadas por  tres virgulillas (~~~) o tres comillas invertidas (```)
 ```
 Al empezar ~~~ o ```
@@ -136,7 +134,7 @@ md, js, html, ruby, python
 Solo recuerda, no todos los motores de Markdown aplicarán el resaltado de sintaxis.
 ```
 
-## Reglas horizontales
+# Reglas horizontales
 Las reglas horizontales se utilizan para separar secciones de una manera visual. Las estás viendo constantemente en este artículo ya que las estoy utilizando para separar los diferentes elementos de sintaxis de Markdown.
 
 Para crearlas, en una línea en blanco deberás incluir tres de los siguientes elementos: asteriscos, guiones, o guiones bajos.  
@@ -146,10 +144,10 @@ Para crearlas, en una línea en blanco deberás incluir tres de los siguientes e
 Obtienes:
 ***
 
-## Elementos de línea 
+# Elementos de línea 
 Markdown utiliza asteriscos o guiones bajos para enfatizar.
 
-## Énfasis (negritas`<strong>` o `<b>` y cursivas `<i>`)
+# Énfasis (negritas`<strong>` o `<b>` y cursivas `<i>`)
 
 Markdown utiliza asteriscos o guiones bajos para enfatizar.
 
@@ -160,11 +158,11 @@ _cursiva_ __negrita__ ___negrita-cursiva___
 *cursiva* **negrita** ***negrita-cursiva***
 ~~~
 
-## Links o enlaces `<a>`
+# Links o enlaces `<a>`
 
 Añadir enlaces a una publicación, más que común, hoy en día es algo casi obligatorio. Con Markdown tendrás varias formas de hacerlo.
 
-## Links o enlaces en línea
+# Links o enlaces en línea
 Son los enlaces de toda la vida. Como su nombre indica, se encuentran en línea con el texto.
 
 Se crean escribiendo la palabra o texto enlazada entre [ ] corchetes, y el link en cuestión entre ( ) paréntesis.
@@ -173,7 +171,7 @@ Se crean escribiendo la palabra o texto enlazada entre [ ] corchetes, y el link 
 ~~~
 
 
-## Links y enlaces como referencia
+# Links y enlaces como referencia
 La desventaja del método anterior, es que si utilizas links demasiado complejos o largos pueden dificultarte la lectura de tu texto.
 
 Para solucionarlo y crear tu contenido de una manera más ordenada puedes generar enlaces de referencia.
@@ -188,7 +186,7 @@ El nombre de referencia y el link puedes añadirlos en cualquier lugar. En los l
 ```
 
 
-## Links Automáticos
+# Links Automáticos
 
 Estos son necesarios cuando lo que quieres es mostrar una URL completa, y no un enlace enmascarado bajo una palabra o frase como ocurre con los links en línea.
 
@@ -201,13 +199,13 @@ devuelve
 https://github.com/ElizabethMaranon
 ```
 
-## Código `code` y `pre`
+# Código `code` y `pre`
 
 En según que tipo de publicaciones (sobre todo las de carácter técnico), necesitarás añadir pequeñas secciones donde mostrar código de otro lenguaje, atajos de teclado, o demás contenido que no debería ser tratado como tal.
 Para ello tienes disponible dos alternativas.
 Resaltado de sintaxis:
 
-## Código puro - Código HTML: `code`
+# Código puro - Código HTML: `code`
 
 La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas. 
 ```html
@@ -218,7 +216,7 @@ Se visualiza:
 Code: línea código entre comillas simples
 ```
 
-## Texto pre-formateado - Código HTML: `pre`
+# Texto pre-formateado - Código HTML: `pre`
 La otra manera de añadir código en Markdown es comenzar el párrafo con cuatro espacios en blanco.
 ```md
     Pre: línea código entre comillas simples
@@ -229,7 +227,7 @@ Pre: línea código entre comillas simples
 ```
 Ojo, ¡estos espacios deberás incluirlos en cada línea que escribas! Para añadir código en bloque es mejor utilizar la sintaxis que viste anteriormente: códigos de bloque.
 
-## Imágenes `<img>`
+# Imágenes `<img>`
 Insertar una imagen con Markdown se realiza de una manera prácticamente idéntica a insertar links.  
 
 Solo que en este caso, deberás añadir un símbolo de ! exclamación al principio y el enlace no será otro que la ubicación de la imagen.
@@ -248,7 +246,7 @@ O dos, sin ensuciar tu espacio de escritura.
 [img2]: /ruta/a/la/imagen2.jpg "Título alternativo"
 ~~~
 
-## Omitir Markdown
+# Omitir Markdown
 Esto es muy sencillo, ya que en este lenguaje existe un elemento estrella para especificar que todo lo que escribas a continuación, no se interprete como Markdown.
 
 Se trata de la barra invertida \ \.
@@ -269,7 +267,7 @@ _  guión bajo
 !  exclamación
 ~~~
 
-## Texto en color
+# Texto en color
 Se puede controlar el color del texto utilizando el elemento `<FONT COLOR="color"` 
 
 <FONT COLOR="red">ROJO </FONT>
@@ -288,13 +286,13 @@ Se puede controlar el color del texto utilizando el elemento `<FONT COLOR="color
 <FONT COLOR="teal">TEAL </FONT>
 <FONT COLOR="white">BLANCO </FONT>
 
-## Colores Logotipo
+# Colores Logotipo
 
 <FONT COLOR= #006cb5>Círculo #006cb5</FONT>  
 <font color= #000000>Ratón #000000</FONT>  
 <font color= #556CEE>Logo #556CEE</FONT> 
 
-## Comentarios
+# Comentarios
 ~~~
 <!-- Comentarios que no se visualizan, se ven de otro color en el editor -->
 ~~~
