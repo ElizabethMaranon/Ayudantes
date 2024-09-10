@@ -18,9 +18,6 @@ Quokka.js es una herramienta de productividad para desarrolladores para la creac
 ## `Image Preview`
 Muestra una vista previa de la imagen en el medianil y al pasar el cursor sobre ella.
 
-## `Neon Dark Theme`
-Tema oscuro con colores neon
-
 ## `Live server`
 Inicie un servidor local de desarrollo con función de recarga en vivo para páginas estáticas y dinámicas
 
