@@ -38,7 +38,10 @@ Guía markdown desde GitHub
 + Diccionario  📖 
 + Enlace instalador 🛠️ 
 + Enter ⏎
-  
+
+
+
+
 # <b>Flechas</b>
   |Arriba|Abajo| Derecha | Izquierda
   |:-:|:-:|:-:|:-:|
