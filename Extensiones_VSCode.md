@@ -1,4 +1,4 @@
-![Logo Mielma Developer](image/Logo_Mielma_Developer.png)
+![Logo Mielma Developer](image/MielmaDev.png)
 
 # Extensiones para VSCode
 

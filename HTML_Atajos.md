@@ -1,4 +1,4 @@
-![Logo_Mielma_Developer](image/Logo_Mielma_Developer.png)
+![MielmaDev](image/MielmaDev.png)
 
 # Etiquetas básicas
 * div clase → `.nombre_clase`⏎
