@@ -1,6 +1,7 @@
 ![Logo Mielma Developer](image/MielmaDev.png)
 
 # Extensiones para VSCode
+[personalizar su experiencia con Visual Studio Code,](https://vscodecandothat.com/) Leer para agregar extensiones que gusten
 
 ## `Error Lens` 
 ErrorLens potencia las funciones de diagnóstico del idioma al hacer que los diagnósticos se destaquen más, resaltando toda la línea dondequiera que el idioma genere un diagnóstico y también imprime el mensaje en línea.  
